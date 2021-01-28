@@ -1,3 +1,4 @@
 # ANN_Classifier
 
-University project at Chalmers
+Image recognition using ANN with Python Scikit-learn package
+
