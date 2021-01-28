@@ -7,5 +7,4 @@ Course: Introduction to Data Science & AI
 Assignment grade: 9/10
 
 Assignment instructions in separate PDF. 
-Collaboration with Sara Hillström. 
 
